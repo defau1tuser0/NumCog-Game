@@ -3,6 +3,7 @@
 ## About  
 It's a simple addition of numbers game with some tweaks — which you’ll know when you run it 😉.  
 It also has a colorful and stylized view — if your terminal can support it, that is.
+Also the code is mostly designed for Windows so sorry and bad luck if some features are not working
 
 
 ## Installtion Guide:
