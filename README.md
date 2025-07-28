@@ -1,5 +1,7 @@
 # NumCog-Game
 
+### Hackathon by https://www.boot.dev/dashboard
+
 ## About  
 It's a simple addition of numbers game with some tweaks — which you’ll know when you run it 😉.  
 It also has a colorful and stylized view — if your terminal can support it, that is.
