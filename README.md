@@ -1,6 +1,6 @@
 # NumCog-Game
 
-### Hackathon by https://www.boot.dev/dashboard
+### Hackathon by https://www.boot.dev
 
 ## About  
 It's a simple addition of numbers game with some tweaks — which you’ll know when you run it 😉.  
