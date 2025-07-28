@@ -4,7 +4,8 @@
 It's a simple addition of numbers game with some tweaks — which you’ll know when you run it 😉.  
 It also has a colorful and stylized view — if your terminal can support it, that is.
 
-##Installtion Guide:
+
+## Installtion Guide:
  1. copy the url
  2. open the terminal and use "git clone "copied_url"
  3. now go to newly downloaded NumCog-Game folder/dir
@@ -16,7 +17,7 @@ It also has a colorful and stylized view — if your terminal can support it, th
 This game is vibe coded, lol.  
 NAH ofc not, when I say vibe coded I mean that it's written in Python which is very much like English, right? Thus — *"vibe coded"*.
 
-##AI help
+## AI help
 Although I did use ChatGPT and Gemini to help me with things like:  
 - "Is there any lib for this, this, and this?"  
 - "How should I add projects to Git?"  
@@ -24,7 +25,7 @@ Although I did use ChatGPT and Gemini to help me with things like:
 -The Logo is AI generated thou
 
 
-##credit
+## credit
 song: https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXCgBwE%3D
 
-#Thanks for playing my game 
+# Thanks for playing my game 
