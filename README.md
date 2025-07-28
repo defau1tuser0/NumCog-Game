@@ -15,6 +15,12 @@ Also the code is mostly designed for Windows so sorry and bad luck if some featu
  6. pass "--break-system-packages" i.e. pip install -r requirements.txt --break-system-packages
  7. run by using "python3 NumCogGame.py" or open this dir/folder in your preferred code editor and run from there
 
+# Sorry 
+Sorry For being this late and still editing read.me
+But I was in team of someone else on other project but my level I mean u guessed it so yeah I wasted whole 2 days there and got blocked/ghosted
+Then realized rather then think I'll do next time why not this time THUS THIS GAME
+
+
 ## Sources and Help  
 This game is vibe coded, lol.  
 NAH ofc not, when I say vibe coded I mean that it's written in Python which is very much like English, right? Thus — *"vibe coded"*.
