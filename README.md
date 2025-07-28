@@ -13,6 +13,7 @@ Also the code is mostly designed for Windows so sorry and bad luck if some featu
  4. install dependencies by running: pip install -r requirements.txt
  5. If got: error: externally-managed-environment then
  6. pass "--break-system-packages" i.e. pip install -r requirements.txt --break-system-packages
+ 7. run by using python3 NumCogGame.py
 
 ## Sources and Help  
 This game is vibe coded, lol.  
