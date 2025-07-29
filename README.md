@@ -17,11 +17,9 @@ Also the code is mostly designed for Windows so sorry and bad luck if some featu
  6. pass "--break-system-packages" i.e. pip install -r requirements.txt --break-system-packages
  7. run by using "python3 NumCogGame.py" or open this dir/folder in your preferred code editor and run from there
 
-# Sorry 
-Sorry For being this late and still editing read.me
-But I was in team of someone else on other project but my level I mean u guessed it so yeah I wasted whole 2 days there and got blocked/ghosted
-Then realized rather then think I'll do next time why not this time THUS THIS GAME
-
+# Easter Egg
+Yes there's an easter egg and while you can find it without any hints and or source code but
+if you want hint then so be it look at the end of read.me
 
 ## Sources and Help  
 This game is vibe coded, lol.  
@@ -34,16 +32,10 @@ Although I did use ChatGPT and Gemini to help me with things like:
 - Blah blah blah...
 -The Logo is AI generated thou
 
-# Easter Egg
-Yes there's an easter egg and while you can find it without any hints and or source code but you want hint then so be it look at the end of read me for hint
-
 ## credit
 song: https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXCgBwE%3D
 
 
 # Thanks for playing my game 
 
-# Hint1: cultured number
-# Hint2: game logo
-
-# Hint3: at this point just look in the source code
+# Hint: Logo
